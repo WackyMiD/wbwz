@@ -6,8 +6,8 @@
         "HideIconAfter": 60,
         "IconURL": "https://pic.survivalhost.org/images/2023/11/17/warzone_w.png",
         "DisableIconText": false,
-        "IconPosition": 0,
-        "IconTextColor": 0,
+        "IconPosition": 2,
+        "IconTextColor": 5,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
