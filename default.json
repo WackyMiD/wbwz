@@ -19,7 +19,7 @@
           "buttontext": "Welcome",
           "title1": "Добро пожаловать на сервер WARZONE [PVE]!",
           "title2": "Правила сервера",
-          "text1": "Здесь небольшое описание сервера.\nДа-да именно оно и будет!\n\n\nОтступы вот поболее, тексты поболее тоже :)",
+          "text1": "Здесь небольшое описание сервера.\nДа-да именно оно и будет!\n\n\nОтступы вот поболее, тексты поболее тоже :) \n\nМагазин сервера -<RichColor Color="1, 0.65, 0, 1"> warasa.ru</>",
           "text2": "Создавая персонажа на серверах WARZONE  вы автоматически соглашаетесь с правилами проекта.\nНа сервере ЗАПРЕЩЕНО: \n\n1.1 - Использование читов (хаков, скриптов, трейнеров), багов игры, которые дают преимущество над другими игроками, а также использование дюпов и текстур; \n1.2 - Осуждение, критика, введение в заблуждение, обман, распространение слухов, угрозы, оскорбления, а также неуважительные действия в адрес администрации и проекта;  ",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
@@ -29,43 +29,13 @@
       {
         "link1": {
           "text": "Discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "url": "https://discord.com/invite/2d5Q9h3eyF"
         }
       },
       {
         "link2": {
-          "text": "Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
-        }
-      },
-      {
-        "link3": {
-          "text": "CurseForge",
-          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-        }
-      },
-      {
-        "link4": {
-          "text": "JSON-Validator",
-          "url": "https://jsonlint.com"
-        }
-      },
-      {
-        "link5": {
-          "text": "Github",
-          "url": "https://github.com"
-        }
-      },
-      {
-        "link6": {
-          "text": "Imgur",
-          "url": "https://imgur.com"
-        }
-      },
-      {
-        "link7": {
-          "text": "Example JSON",
-          "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
+          "text": "Магазин",
+          "url": "https://warasa.ru/"
         }
       }
     ]
