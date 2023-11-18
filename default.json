@@ -7,7 +7,7 @@
         "IconURL": "https://pic.survivalhost.org/images/2023/11/18/wbui_w8.png",
         "DisableIconText": true,
         "IconPosition": 2,
-        "IconTextColor": 5,
+        "IconTextColor": 8,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
