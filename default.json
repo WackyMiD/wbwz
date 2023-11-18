@@ -37,6 +37,12 @@
           "text": "› <RichColor Color=\"1,0.25,0,1\">Магазин</>",
           "url": "https://warasa.ru/"
         }
+      },
+      {
+        "link3": {
+          "text": "› <RichColor Color=\"1,0.25,0,1\">VK</>",
+          "url": "https://vk.com/warzoneark"
+        }
       }
     ]
   }
